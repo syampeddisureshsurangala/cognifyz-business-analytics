@@ -41,4 +41,5 @@ This project showcases the use of Python for performing business analytics tasks
 ---
 
 **Internship completion Certificate**
+
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/929351cc-d414-4cd9-8676-aa8f6709877f">
